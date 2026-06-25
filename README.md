@@ -318,7 +318,7 @@ FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
 
 ## 📬 Contact
 
-**Your Name**
+**PREM SHAH**
 
 - GitHub: [@PremShah-22](https://github.com/PremShah-22)
 - Email: shahprem1745@gmail.com
