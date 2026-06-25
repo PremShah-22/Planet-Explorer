@@ -63,20 +63,6 @@ Whether you're a student, space enthusiast, or just curious about the cosmos, Pl
 
 ---
 
-## 📸 Screenshots
-
-<div align="center">
-
-| Home Screen | Planet Detail | Compare View |
-|:-----------:|:-------------:|:------------:|
-| ![Home](https://via.placeholder.com/280x180?text=Home) | ![Detail](https://via.placeholder.com/280x180?text=Planet+Detail) | ![Compare](https://via.placeholder.com/280x180?text=Compare) |
-
-</div>
-
-> Replace the placeholders above with actual screenshots from your project.
-
----
-
 ## 🛠️ Tech Stack
 
 | Category | Technology |
