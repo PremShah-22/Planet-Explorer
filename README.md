@@ -12,7 +12,7 @@
 ![Version](https://img.shields.io/badge/version-1.0.0-blue)
 ![Status](https://img.shields.io/badge/status-active-brightgreen)
 
-[🚀 Live Demo](#) · [📖 Documentation](#documentation) · [🐛 Report Bug](https://github.com/yourusername/planet-explorer/issues) · [✨ Request Feature](https://github.com/yourusername/planet-explorer/issues)
+[🚀 Live Demo](https://premshah-22.github.io/Planet-Explorer/) · [📖 Documentation](#documentation) · [🐛 Report Bug](#) · [✨ Request Feature](#)
 
 </div>
 
